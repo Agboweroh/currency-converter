@@ -7,7 +7,7 @@
 
 
   <p align="center">
-    "Convertir" is a Single Page Application that allows you to convert from any currency into over 160 world currencies using current exchange rates.
+    "Lexie.AI" is a Single Page Application that allows you to convert from any currency into over 160 world currencies using current exchange rates.
 
   </p>
 </p>
