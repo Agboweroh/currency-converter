@@ -1,25 +1,14 @@
 <br />
 <p align="center">
 
-  <h3 align="center">Convertir</h3>
+  <h3 align="center">Lexie currency Converter</h3>
 
 
-  ![Currency Page](currency.PNG)
-  ![Convertir Page](converter.PNG)
+
 
   <p align="center">
     "Convertir" is a Single Page Application that allows you to convert from any currency into over 160 world currencies using current exchange rates.
-    <br />
-    <a href="#"><strong>Explore the docs 👇🏽</strong></a>
-    <br />
-    <br />
-    <a href="https://www.loom.com/share/e1c531a9c98c48ddacda0ede9fa53416?sharedAppSource=personal_library"> <strong>Video Demo</strong> </a>
-    ·
-    <a href="https://convertirr.netlify.app/"><strong>Live Demo</strong></a>
-    ·
-    <a href="https://github.com/codepantha/convertir/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/codepantha/convertir/issues">Request Feature</a>
+
   </p>
 </p>
 
@@ -60,12 +49,6 @@
 - [React js](https://www.reactjs.org)
 - [Redux](https://react-redux.js.org)
 
-## Authors
-👤 **Eze Promisie**
-
-- GitHub: [@Eze Promisie](https://github.com/codepantha)
-- Twitter: [@Eze Promisie](https://twitter.com/codepantha)
-- LinkedIn: [Eze Promisie](https://www.linkedin.com/in/promise-eze/)
 
 ## Getting Started
 
@@ -79,10 +62,7 @@
 ### Installation
 
 
-1. Clone the repo
-   ```sh
-   https://github.com/codepantha/convertir.git
-   ```
+1. Clone the repository
 
 2. Install NPM packages
    ```sh
@@ -92,24 +72,12 @@
    ```sh
    npm start
    ```
+   
+   4. Test the app with :
+  ```sh
+   npm test 
+   ```
 
-## Roadmap
-
-See the [open issues](https://github.com/codepantha/convertir/issues) for a list of proposed features (and known issues).
-
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/NewFeature`)
-3. Commit your Changes (`git commit -m 'Add some NewFeature'`)
-4. Push to the Branch (`git push origin feature/NewFeature`)
-5. Open a Pull Request
-
-## License
-
-License Free.
 
 ## ⭐️ Acknowledgments
 Original design by [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio)  <br />
